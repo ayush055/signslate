@@ -1,4 +1,5 @@
-### 🥇 Project received 1st place in the Diversity and Inclusion Category of the High Tech Hacks 2021 Hackathon
+### Signslate
+🥇 Project received 1st place in the Diversity and Inclusion Category of the High Tech Hacks 2021 Hackathon
 
 🥇 Project received 1st place overall in the Simplihacks 2021 Hackathon
 
